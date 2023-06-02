@@ -24,5 +24,10 @@
 <h3>Tech Stack:</h3>
  
 <table>
+ 
+ <tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Design & Editing</strong></td>
+</tr>
 
 
