@@ -29,5 +29,9 @@
 	<td><strong>Web Development</strong></td>
 	<td><strong>Design & Editing</strong></td>
 </tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,sqlite,bootstrap,flask,netlify,heroku,react,threejs" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=ps,ae,figma,ai,xd&theme=dark" height=38></td>
+</tr>
 
 
