@@ -7,3 +7,5 @@
 <a href="#My-GitHub-Metrics">[Metrics]</a>
 <a href="#Latest-Blogs">[Blogs]</a>
 </div>
+
+<h3>My GitHub Metrics:</h3>
