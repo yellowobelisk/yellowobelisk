@@ -15,6 +15,6 @@
 | ![](https://github-readme-stats.vercel.app/api?username=yellowobelisk&theme=merko&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=contribs) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yellowobelisk&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yellowobelisk&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" alt="thecleveridiott" /> |
 | --- | --- | --- |
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=TheCleverIdiott&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=yellowobelisk&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
