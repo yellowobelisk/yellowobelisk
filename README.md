@@ -49,3 +49,4 @@
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,cs,java,php,py,rails" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark" height=38></td>
 </tr>
+</table>
