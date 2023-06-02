@@ -50,3 +50,6 @@
 		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark" height=38></td>
 </tr>
 </table>
+
+ [![GitHub followers](https://img.shields.io/github/followers/yellowobelisk.svg?style=social&label=Follow)](https://github.com/yellowobelsik?tab=followers)
+ 
