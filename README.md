@@ -57,6 +57,8 @@
 
 </div>
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/yellowobelisk.svg?style=social&label=Follow)](https://github.com/yellowobelsik?tab=followers)
