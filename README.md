@@ -2,8 +2,8 @@
 
 <div align="right">
 <a href="#About-Me">[About]</a>
-<a href="#Tech-Stack">[Tech-Stack]</a>
 <a href="#My-GitHub-Metrics">[Metrics]</a>
+<a href="#Tech-Stack">[Tech-Stack]</a>
 </div>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
