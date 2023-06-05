@@ -6,7 +6,11 @@
 <a href="#Tech-Stack">[Tech-Stack]</a>
 </div>
 
+<div align="left">
+
 <img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
+	
+</div>
 
 <h3>About Me</h3>
 
