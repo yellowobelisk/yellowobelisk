@@ -51,13 +51,15 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
- <div align="center">
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
 
 </div>
 
- <div align="center">
+<div align="center">
 
- [![GitHub followers](https://img.shields.io/github/followers/yellowobelisk.svg?style=social&label=Follow)](https://github.com/yellowobelsik?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/yellowobelisk.svg?style=social&label=Follow)](https://github.com/yellowobelsik?tab=followers)
+	
+</div>
  
