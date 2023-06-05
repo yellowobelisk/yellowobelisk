@@ -12,6 +12,8 @@
 	
 </div>
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 <h3>About Me</h3>
 
 Currently a Computer Science undergrad in Junior year with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
