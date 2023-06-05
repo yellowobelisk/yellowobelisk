@@ -6,6 +6,8 @@
 <a href="#Tech-Stack">[Tech-Stack]</a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=thecleveridiott&label=Profile%20views&color=0e75b6&style=flat-square" alt="thecleveridiott" />
+
 <h3>About Me</h3>
 
 Currently a Computer Science undergrad in Junior year with a passion for technology and a drive to solve complex problems. Seeking opportunities to gain hands-on experience and contribute to the tech industry.
