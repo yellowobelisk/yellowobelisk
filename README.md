@@ -53,7 +53,9 @@
 
  <div align="center">
 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
+
+</div>
 
  [![GitHub followers](https://img.shields.io/github/followers/yellowobelisk.svg?style=social&label=Follow)](https://github.com/yellowobelsik?tab=followers)
  
